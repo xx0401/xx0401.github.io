@@ -1,16 +1,14 @@
-# 计算机科学与编程入门课程第二次作业
+# 计算机科学与编程入门课程第三次作业
 
 ## 学号 2000015441 姓名 王钰潇
 
 ### 1.作业1
 
-对红楼梦文本分析后的可视化处理，采用了条状图、饼图和词云，其中前面两种仅展示出现次数最多的前十位角色
+对红楼梦的人物关系做了"共现"处理，并进行可视化，做出了人物关系图
 
-[链接1：条状图](https://github.com/xx0401/xx0401.github.io/blob/main/hlm.html)
+[链接](https://github.com/xx0401/xx0401.github.io/blob/main/关系图-红楼梦.html)
 
-[链接2：饼图](https://github.com/xx0401/xx0401.github.io/blob/main/pie_hlm.html)
 
-[链接3：词云](https://github.com/xx0401/xx0401.github.io/blob/main/wordcloud.html)
 
 ### 2.作业2
 
